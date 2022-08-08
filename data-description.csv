@@ -1,0 +1,354 @@
+﻿Feature;Feature-Description;Category;Category-Description
+MSSubClass;Identifies the type of dwelling involved in the sale.;20;1-STORY 1946 & NEWER ALL STYLES
+MSSubClass;Identifies the type of dwelling involved in the sale.;30;1-STORY 1945 & OLDER
+MSSubClass;Identifies the type of dwelling involved in the sale.;40;1-STORY W/FINISHED ATTIC ALL AGES
+MSSubClass;Identifies the type of dwelling involved in the sale.;45;1-1/2 STORY - UNFINISHED ALL AGES
+MSSubClass;Identifies the type of dwelling involved in the sale.;50;1-1/2 STORY FINISHED ALL AGES
+MSSubClass;Identifies the type of dwelling involved in the sale.;60;2-STORY 1946 & NEWER
+MSSubClass;Identifies the type of dwelling involved in the sale.;70;2-STORY 1945 & OLDER
+MSSubClass;Identifies the type of dwelling involved in the sale.;75;2-1/2 STORY ALL AGES
+MSSubClass;Identifies the type of dwelling involved in the sale.;80;SPLIT OR MULTI-LEVEL
+MSSubClass;Identifies the type of dwelling involved in the sale.;85;SPLIT FOYER
+MSSubClass;Identifies the type of dwelling involved in the sale.;90;DUPLEX - ALL STYLES AND AGES
+MSSubClass;Identifies the type of dwelling involved in the sale.;120;1-STORY PUD (Planned Unit Development) - 1946 & NEWER
+MSSubClass;Identifies the type of dwelling involved in the sale.;150;1-1/2 STORY PUD - ALL AGES
+MSSubClass;Identifies the type of dwelling involved in the sale.;160;2-STORY PUD - 1946 & NEWER
+MSSubClass;Identifies the type of dwelling involved in the sale.;180;PUD - MULTILEVEL - INCL SPLIT LEV/FOYER
+MSSubClass;Identifies the type of dwelling involved in the sale.;190;2 FAMILY CONVERSION - ALL STYLES AND AGES
+MSZoning;Identifies the general zoning classification of the sale.;A;Agriculture
+MSZoning;Identifies the general zoning classification of the sale.;C;Commercial
+MSZoning;Identifies the general zoning classification of the sale.;FV;Floating Village Residential
+MSZoning;Identifies the general zoning classification of the sale.;I;Industrial
+MSZoning;Identifies the general zoning classification of the sale.;RH;Residential High Density
+MSZoning;Identifies the general zoning classification of the sale.;RL;Residential Low Density
+MSZoning;Identifies the general zoning classification of the sale.;RP;Residential Low Density Park
+MSZoning;Identifies the general zoning classification of the sale.;RM;Residential Medium Density
+LotFrontage;Linear feet of street connected to property;;
+LotArea;Lot size in square feet;;
+Street;Type of road access to property;Grvl;Gravel
+Street;Type of road access to property;Pave;Paved
+Alley;Type of alley access to property;Grvl;Gravel
+Alley;Type of alley access to property;Pave;Paved
+Alley;Type of alley access to property;NA;No alley access
+LotShape;General shape of property;Reg;Regular
+LotShape;General shape of property;IR1;Slightly irregular
+LotShape;General shape of property;IR2;Moderately Irregular
+LotShape;General shape of property;IR3;Irregular
+LandContour;Flatness of the property;Lvl;Near Flat/Level
+LandContour;Flatness of the property;Bnk;Banked - Quick and significant rise from street grade to building
+LandContour;Flatness of the property;HLS;Hillside - Significant slope from side to side
+LandContour;Flatness of the property;Low;Depression
+Utilities;Type of utilities available;AllPub;All public Utilities (E,G,W,& S)
+Utilities;Type of utilities available;NoSewr;Electricity, Gas, and Water (Septic Tank)
+Utilities;Type of utilities available;NoSeWa;Electricity and Gas Only
+Utilities;Type of utilities available;ELO;Electricity only
+LotConfig;Lot configuration;Inside;Inside lot
+LotConfig;Lot configuration;Corner;Corner lot
+LotConfig;Lot configuration;CulDSac;Cul-de-sac
+LotConfig;Lot configuration;FR2;Frontage on 2 sides of property
+LotConfig;Lot configuration;FR3;Frontage on 3 sides of property
+LandSlope;Slope of property;Gtl;Gentle slope
+LandSlope;Slope of property;Mod;Moderate Slope
+LandSlope;Slope of property;Sev;Severe Slope
+Neighborhood;Physical locations within Ames city limits;Blmngtn;Bloomington Heights
+Neighborhood;Physical locations within Ames city limits;Blueste;Bluestem
+Neighborhood;Physical locations within Ames city limits;BrDale;Briardale
+Neighborhood;Physical locations within Ames city limits;BrkSide;Brookside
+Neighborhood;Physical locations within Ames city limits;ClearCr;Clear Creek
+Neighborhood;Physical locations within Ames city limits;CollgCr;College Creek
+Neighborhood;Physical locations within Ames city limits;Crawfor;Crawford
+Neighborhood;Physical locations within Ames city limits;Edwards;Edwards
+Neighborhood;Physical locations within Ames city limits;Gilbert;Gilbert
+Neighborhood;Physical locations within Ames city limits;IDOTRR;Iowa DOT and Rail Road
+Neighborhood;Physical locations within Ames city limits;MeadowV;Meadow Village
+Neighborhood;Physical locations within Ames city limits;Mitchel;Mitchell
+Neighborhood;Physical locations within Ames city limits;Names;North Ames
+Neighborhood;Physical locations within Ames city limits;NoRidge;Northridge
+Neighborhood;Physical locations within Ames city limits;NPkVill;Northpark Villa
+Neighborhood;Physical locations within Ames city limits;NridgHt;Northridge Heights
+Neighborhood;Physical locations within Ames city limits;NWAmes;Northwest Ames
+Neighborhood;Physical locations within Ames city limits;OldTown;Old Town
+Neighborhood;Physical locations within Ames city limits;SWISU;South & West of Iowa State University
+Neighborhood;Physical locations within Ames city limits;Sawyer;Sawyer
+Neighborhood;Physical locations within Ames city limits;SawyerW;Sawyer West
+Neighborhood;Physical locations within Ames city limits;Somerst;Somerset
+Neighborhood;Physical locations within Ames city limits;StoneBr;Stone Brook
+Neighborhood;Physical locations within Ames city limits;Timber;Timberland
+Neighborhood;Physical locations within Ames city limits;Veenker;Veenker
+Condition;Proximity to various conditions;Artery;Adjacent to arterial street
+Condition;Proximity to various conditions;Feedr;Adjacent to feeder street
+Condition;Proximity to various conditions;Norm;Normal
+Condition;Proximity to various conditions;RRNn;Within 200' of North-South Railroad
+Condition;Proximity to various conditions;RRAn;Adjacent to North-South Railroad
+Condition;Proximity to various conditions;PosN;Near positive off-site feature--park, greenbelt, etc.
+Condition;Proximity to various conditions;PosA;Adjacent to postive off-site feature
+Condition;Proximity to various conditions;RRNe;Within 200' of East-West Railroad
+Condition;Proximity to various conditions;RRAe;Adjacent to East-West Railroad
+Condition;Proximity to various conditions (if more than one is present);Artery;Adjacent to arterial street
+Condition;Proximity to various conditions (if more than one is present);Feedr;Adjacent to feeder street
+Condition;Proximity to various conditions (if more than one is present);Norm;Normal
+Condition;Proximity to various conditions (if more than one is present);RRNn;Within 200' of North-South Railroad
+Condition;Proximity to various conditions (if more than one is present);RRAn;Adjacent to North-South Railroad
+Condition;Proximity to various conditions (if more than one is present);PosN;Near positive off-site feature--park, greenbelt, etc.
+Condition;Proximity to various conditions (if more than one is present);PosA;Adjacent to postive off-site feature
+Condition;Proximity to various conditions (if more than one is present);RRNe;Within 200' of East-West Railroad
+Condition;Proximity to various conditions (if more than one is present);RRAe;Adjacent to East-West Railroad
+BldgType;Type of dwelling;1Fam;Single-family Detached
+BldgType;Type of dwelling;2FmCon;"Two-family Conversion; originally built as one-family dwelling"
+BldgType;Type of dwelling;Duplx;Duplex
+BldgType;Type of dwelling;TwnhsE;Townhouse End Unit
+BldgType;Type of dwelling;TwnhsI;Townhouse Inside Unit
+HouseStyle;Style of dwelling;1Story;One story
+HouseStyle;Style of dwelling;1.5Fin;One and one-half story: 2nd level finished
+HouseStyle;Style of dwelling;1.5Unf;One and one-half story: 2nd level unfinished
+HouseStyle;Style of dwelling;2Story;Two story
+HouseStyle;Style of dwelling;2.5Fin;Two and one-half story: 2nd level finished
+HouseStyle;Style of dwelling;2.5Unf;Two and one-half story: 2nd level unfinished
+HouseStyle;Style of dwelling;SFoyer;Split Foyer
+HouseStyle;Style of dwelling;SLvl;Split Level
+OverallQual;Rates the overall material and finish of the house;10;Very Excellent
+OverallQual;Rates the overall material and finish of the house;9;Excellent
+OverallQual;Rates the overall material and finish of the house;8;Very Good
+OverallQual;Rates the overall material and finish of the house;7;Good
+OverallQual;Rates the overall material and finish of the house;6;Above Average
+OverallQual;Rates the overall material and finish of the house;5;Average
+OverallQual;Rates the overall material and finish of the house;4;Below Average
+OverallQual;Rates the overall material and finish of the house;3;Fair
+OverallQual;Rates the overall material and finish of the house;2;Poor
+OverallQual;Rates the overall material and finish of the house;1;Very Poor
+OverallCond;Rates the overall condition of the house;10;Very Excellent
+OverallCond;Rates the overall condition of the house;9;Excellent
+OverallCond;Rates the overall condition of the house;8;Very Good
+OverallCond;Rates the overall condition of the house;7;Good
+OverallCond;Rates the overall condition of the house;6;Above Average
+OverallCond;Rates the overall condition of the house;5;Average
+OverallCond;Rates the overall condition of the house;4;Below Average
+OverallCond;Rates the overall condition of the house;3;Fair
+OverallCond;Rates the overall condition of the house;2;Poor
+OverallCond;Rates the overall condition of the house;1;Very Poor
+YearBuilt;Original construction date;;
+YearRemodAdd;Remodel date (same as construction date if no remodeling or additions);;
+RoofStyle;Type of roof;Flat;Flat
+RoofStyle;Type of roof;Gable;Gable
+RoofStyle;Type of roof;Gambrel;Gabrel (Barn)
+RoofStyle;Type of roof;Hip;Hip
+RoofStyle;Type of roof;Mansard;Mansard
+RoofStyle;Type of roof;Shed;Shed
+RoofMatl;Roof material;ClyTile;Clay or Tile
+RoofMatl;Roof material;CompShg;Standard (Composite) Shingle
+RoofMatl;Roof material;Membran;Membrane
+RoofMatl;Roof material;Metal;Metal
+RoofMatl;Roof material;Roll;Roll
+RoofMatl;Roof material;Tar&Grv;Gravel & Tar
+RoofMatl;Roof material;WdShake;Wood Shakes
+RoofMatl;Roof material;WdShngl;Wood Shingles
+Exterior1st;Exterior covering on house;AsbShng;Asbestos Shingles
+Exterior1st;Exterior covering on house;AsphShn;Asphalt Shingles
+Exterior1st;Exterior covering on house;BrkComm;Brick Common
+Exterior1st;Exterior covering on house;BrkFace;Brick Face
+Exterior1st;Exterior covering on house;CBlock;Cinder Block
+Exterior1st;Exterior covering on house;CemntBd;Cement Board
+Exterior1st;Exterior covering on house;HdBoard;Hard Board
+Exterior1st;Exterior covering on house;ImStucc;Imitation Stucco
+Exterior1st;Exterior covering on house;MetalSd;Metal Siding
+Exterior1st;Exterior covering on house;Other;Other
+Exterior1st;Exterior covering on house;Plywood;Plywood
+Exterior1st;Exterior covering on house;PreCast;PreCast
+Exterior1st;Exterior covering on house;Stone;Stone
+Exterior1st;Exterior covering on house;Stucco;Stucco
+Exterior1st;Exterior covering on house;VinylSd;Vinyl Siding
+Exterior1st;Exterior covering on house;Wd Sdng;Wood Siding
+Exterior1st;Exterior covering on house;WdShing;Wood Shingles
+Exterior2nd;Exterior covering on house (if more than one material);AsbShng;Asbestos Shingles
+Exterior2nd;Exterior covering on house (if more than one material);AsphShn;Asphalt Shingles
+Exterior2nd;Exterior covering on house (if more than one material);BrkComm;Brick Common
+Exterior2nd;Exterior covering on house (if more than one material);BrkFace;Brick Face
+Exterior2nd;Exterior covering on house (if more than one material);CBlock;Cinder Block
+Exterior2nd;Exterior covering on house (if more than one material);CemntBd;Cement Board
+Exterior2nd;Exterior covering on house (if more than one material);HdBoard;Hard Board
+Exterior2nd;Exterior covering on house (if more than one material);ImStucc;Imitation Stucco
+Exterior2nd;Exterior covering on house (if more than one material);MetalSd;Metal Siding
+Exterior2nd;Exterior covering on house (if more than one material);Other;Other
+Exterior2nd;Exterior covering on house (if more than one material);Plywood;Plywood
+Exterior2nd;Exterior covering on house (if more than one material);PreCast;PreCast
+Exterior2nd;Exterior covering on house (if more than one material);Stone;Stone
+Exterior2nd;Exterior covering on house (if more than one material);Stucco;Stucco
+Exterior2nd;Exterior covering on house (if more than one material);VinylSd;Vinyl Siding
+Exterior2nd;Exterior covering on house (if more than one material);Wd Sdng;Wood Siding
+Exterior2nd;Exterior covering on house (if more than one material);WdShing;Wood Shingles
+MasVnrType;Masonry veneer type;BrkCmn;Brick Common
+MasVnrType;Masonry veneer type;BrkFace;Brick Face
+MasVnrType;Masonry veneer type;CBlock;Cinder Block
+MasVnrType;Masonry veneer type;None;None
+MasVnrType;Masonry veneer type;Stone;Stone
+MasVnrArea;Masonry veneer area in square feet;;
+ExterQual;Evaluates the quality of the material on the exterior;Ex;Excellent
+ExterQual;Evaluates the quality of the material on the exterior;Gd;Good
+ExterQual;Evaluates the quality of the material on the exterior;TA;Average/Typical
+ExterQual;Evaluates the quality of the material on the exterior;Fa;Fair
+ExterQual;Evaluates the quality of the material on the exterior;Po;Poor
+ExterCond;Evaluates the present condition of the material on the exterior;Ex;Excellent
+ExterCond;Evaluates the present condition of the material on the exterior;Gd;Good
+ExterCond;Evaluates the present condition of the material on the exterior;TA;Average/Typical
+ExterCond;Evaluates the present condition of the material on the exterior;Fa;Fair
+ExterCond;Evaluates the present condition of the material on the exterior;Po;Poor
+Foundation;Type of foundation;BrkTil;Brick & Tile
+Foundation;Type of foundation;CBlock;Cinder Block
+Foundation;Type of foundation;PConc;Poured Contrete
+Foundation;Type of foundation;Slab;Slab
+Foundation;Type of foundation;Stone;Stone
+Foundation;Type of foundation;Wood;Wood
+BsmtQual;Evaluates the height of the basement;Ex;Excellent (100+ inches)
+BsmtQual;Evaluates the height of the basement;Gd;Good (90-99 inches)
+BsmtQual;Evaluates the height of the basement;TA;Typical (80-89 inches)
+BsmtQual;Evaluates the height of the basement;Fa;Fair (70-79 inches)
+BsmtQual;Evaluates the height of the basement;Po;Poor (<70 inches
+BsmtQual;Evaluates the height of the basement;NA;No Basement
+BsmtCond;Evaluates the general condition of the basement;Ex;Excellent
+BsmtCond;Evaluates the general condition of the basement;Gd;Good
+BsmtCond;Evaluates the general condition of the basement;TA;Typical - slight dampness allowed
+BsmtCond;Evaluates the general condition of the basement;Fa;Fair - dampness or some cracking or settling
+BsmtCond;Evaluates the general condition of the basement;Po;Poor - Severe cracking, settling, or wetness
+BsmtCond;Evaluates the general condition of the basement;NA;No Basement
+BsmtExposure;Refers to walkout or garden level walls;Gd;Good Exposure
+BsmtExposure;Refers to walkout or garden level walls;Av;Average Exposure (split levels or foyers typically score average or above)
+BsmtExposure;Refers to walkout or garden level walls;Mn;Mimimum Exposure
+BsmtExposure;Refers to walkout or garden level walls;No;No Exposure
+BsmtExposure;Refers to walkout or garden level walls;NA;No Basement
+BsmtFinType1;Rating of basement finished area;GLQ;Good Living Quarters
+BsmtFinType1;Rating of basement finished area;ALQ;Average Living Quarters
+BsmtFinType1;Rating of basement finished area;BLQ;Below Average Living Quarters
+BsmtFinType1;Rating of basement finished area;Rec;Average Rec Room
+BsmtFinType1;Rating of basement finished area;LwQ;Low Quality
+BsmtFinType1;Rating of basement finished area;Unf;Unfinshed
+BsmtFinType1;Rating of basement finished area;NA;No Basement
+BsmtFinSF1;Type 1 finished square feet;;
+BsmtFinType2;Rating of basement finished area (if multiple types);GLQ;Good Living Quarters
+BsmtFinType2;Rating of basement finished area (if multiple types);ALQ;Average Living Quarters
+BsmtFinType2;Rating of basement finished area (if multiple types);BLQ;Below Average Living Quarters
+BsmtFinType2;Rating of basement finished area (if multiple types);Rec;Average Rec Room
+BsmtFinType2;Rating of basement finished area (if multiple types);LwQ;Low Quality
+BsmtFinType2;Rating of basement finished area (if multiple types);Unf;Unfinshed
+BsmtFinType2;Rating of basement finished area (if multiple types);NA;No Basement
+BsmtFinSF2;Type 2 finished square feet;;
+BsmtUnfSF;Unfinished square feet of basement area;;
+TotalBsmtSF;Total square feet of basement area;;
+Heating;Type of heating;Floor;Floor Furnace
+Heating;Type of heating;GasA;Gas forced warm air furnace
+Heating;Type of heating;GasW;Gas hot water or steam heat
+Heating;Type of heating;Grav;Gravity furnace
+Heating;Type of heating;OthW;Hot water or steam heat other than gas
+Heating;Type of heating;Wall;Wall furnace
+HeatingQC;Heating quality and condition;Ex;Excellent
+HeatingQC;Heating quality and condition;Gd;Good
+HeatingQC;Heating quality and condition;TA;Average/Typical
+HeatingQC;Heating quality and condition;Fa;Fair
+HeatingQC;Heating quality and condition;Po;Poor
+CentralAir;Central air conditioning;N;No
+CentralAir;Central air conditioning;Y;Yes
+Electrical;Electrical system;SBrkr;Standard Circuit Breakers & Romex
+Electrical;Electrical system;FuseA;Fuse Box over 60 AMP and all Romex wiring (Average)
+Electrical;Electrical system;FuseF;60 AMP Fuse Box and mostly Romex wiring (Fair)
+Electrical;Electrical system;FuseP;60 AMP Fuse Box and mostly knob & tube wiring (poor)
+Electrical;Electrical system;Mix;Mixed
+1stFlrSF;First Floor square feet;;
+2ndFlrSF;Second floor square feet;;
+LowQualFinSF;Low quality finished square feet (all floors);;
+GrLivArea;Above grade (ground) living area square feet;;
+BsmtFullBath;Basement full bathrooms;;
+BsmtHalfBath;Basement half bathrooms;;
+FullBath;Full bathrooms above grade;;
+HalfBath;Half baths above grade;;
+Bedroom;Bedrooms above grade (does NOT include basement bedrooms);;
+Kitchen;Kitchens above grade;;
+KitchenQual;Kitchen quality;Ex;Excellent
+KitchenQual;Kitchen quality;Gd;Good
+KitchenQual;Kitchen quality;TA;Typical/Average
+KitchenQual;Kitchen quality;Fa;Fair
+KitchenQual;Kitchen quality;Po;Poor
+TotRmsAbvGrd;Total rooms above grade (does not include bathrooms);;
+Functional;Home functionality (Assume typical unless deductions are warranted);Typ;Typical Functionality
+Functional;Home functionality (Assume typical unless deductions are warranted);Min1;Minor Deductions 1
+Functional;Home functionality (Assume typical unless deductions are warranted);Min2;Minor Deductions 2
+Functional;Home functionality (Assume typical unless deductions are warranted);Mod;Moderate Deductions
+Functional;Home functionality (Assume typical unless deductions are warranted);Maj1;Major Deductions 1
+Functional;Home functionality (Assume typical unless deductions are warranted);Maj2;Major Deductions 2
+Functional;Home functionality (Assume typical unless deductions are warranted);Sev;Severely Damaged
+Functional;Home functionality (Assume typical unless deductions are warranted);Sal;Salvage only
+Fireplaces;Number of fireplaces;;
+FireplaceQu;Fireplace quality;Ex;Excellent - Exceptional Masonry Fireplace
+FireplaceQu;Fireplace quality;Gd;Good - Masonry Fireplace in main level
+FireplaceQu;Fireplace quality;TA;Average - Prefabricated Fireplace in main living area or Masonry Fireplace in basement
+FireplaceQu;Fireplace quality;Fa;Fair - Prefabricated Fireplace in basement
+FireplaceQu;Fireplace quality;Po;Poor - Ben Franklin Stove
+FireplaceQu;Fireplace quality;NA;No Fireplace
+GarageType;Garage location;2Types;More than one type of garage
+GarageType;Garage location;Attchd;Attached to home
+GarageType;Garage location;Basment;Basement Garage
+GarageType;Garage location;BuiltIn;Built-In (Garage part of house - typically has room above garage)
+GarageType;Garage location;CarPort;Car Port
+GarageType;Garage location;Detchd;Detached from home
+GarageType;Garage location;NA;No Garage
+GarageYrBlt;Year garage was built;;
+GarageFinish;Interior finish of the garage;Fin;Finished
+GarageFinish;Interior finish of the garage;RFn;Rough Finished
+GarageFinish;Interior finish of the garage;Unf;Unfinished
+GarageFinish;Interior finish of the garage;NA;No Garage
+GarageCars;Size of garage in car capacity;;
+GarageArea;Size of garage in square feet;;
+GarageQual;Garage quality;Ex;Excellent
+GarageQual;Garage quality;Gd;Good
+GarageQual;Garage quality;TA;Typical/Average
+GarageQual;Garage quality;Fa;Fair
+GarageQual;Garage quality;Po;Poor
+GarageQual;Garage quality;NA;No Garage
+GarageCond;Garage condition;Ex;Excellent
+GarageCond;Garage condition;Gd;Good
+GarageCond;Garage condition;TA;Typical/Average
+GarageCond;Garage condition;Fa;Fair
+GarageCond;Garage condition;Po;Poor
+GarageCond;Garage condition;NA;No Garage
+PavedDrive;Paved driveway;Y;Paved
+PavedDrive;Paved driveway;P;Partial Pavement
+PavedDrive;Paved driveway;N;Dirt/Gravel
+WoodDeckSF;Wood deck area in square feet;;
+OpenPorchSF;Open porch area in square feet;;
+EnclosedPorch;Enclosed porch area in square feet;;
+3SsnPorch;Three season porch area in square feet;;
+ScreenPorch;Screen porch area in square feet;;
+PoolArea;Pool area in square feet;;
+PoolQC;Pool quality;Ex;Excellent
+PoolQC;Pool quality;Gd;Good
+PoolQC;Pool quality;TA;Average/Typical
+PoolQC;Pool quality;Fa;Fair
+PoolQC;Pool quality;NA;No Pool
+Fence;Fence quality;GdPrv;Good Privacy
+Fence;Fence quality;MnPrv;Minimum Privacy
+Fence;Fence quality;GdWo;Good Wood
+Fence;Fence quality;MnWw;Minimum Wood/Wire
+Fence;Fence quality;NA;No Fence
+MiscFeature;Miscellaneous feature not covered in other categories;Elev;Elevator
+MiscFeature;Miscellaneous feature not covered in other categories;Gar2;2nd Garage (if not described in garage section)
+MiscFeature;Miscellaneous feature not covered in other categories;Othr;Other
+MiscFeature;Miscellaneous feature not covered in other categories;Shed;Shed (over 100 SF)
+MiscFeature;Miscellaneous feature not covered in other categories;TenC;Tennis Court
+MiscFeature;Miscellaneous feature not covered in other categories;NA;None
+MiscVal;$Value of miscellaneous feature;;
+MoSold;Month Sold (MM);;
+YrSold;Year Sold (YYYY);;
+SaleType;Type of sale;WD;Warranty Deed - Conventional
+SaleType;Type of sale;CWD;Warranty Deed - Cash
+SaleType;Type of sale;VWD;Warranty Deed - VA Loan
+SaleType;Type of sale;New;Home just constructed and sold
+SaleType;Type of sale;COD;Court Officer Deed/Estate
+SaleType;Type of sale;Con;Contract 15% Down payment regular terms
+SaleType;Type of sale;ConLw;Contract Low Down payment and low interest
+SaleType;Type of sale;ConLI;Contract Low Interest
+SaleType;Type of sale;ConLD;Contract Low Down
+SaleType;Type of sale;Oth;Other
+SaleCondition;Condition of sale;Normal;Normal Sale
+SaleCondition;Condition of sale;Abnorml;Abnormal Sale - trade, foreclosure, short sale
+SaleCondition;Condition of sale;AdjLand;Adjoining Land Purchase
+SaleCondition;Condition of sale;Alloca;Allocation - two linked properties with separate deeds, typically condo with a garage unit
+SaleCondition;Condition of sale;Family;Sale between family members
+BsmtFinType1;Condition of sale;Partial;Home was not completed when last assessed (associated with New Homes)
